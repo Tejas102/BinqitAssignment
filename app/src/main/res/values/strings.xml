@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BinqitAssignment</string>
+    <string name="show_movies">Show Movies</string>
+    <string name="back">Back</string>
+    <string name="list_of_movies">List of Movies</string>
+    <string name="select">Select</string>
+</resources>
